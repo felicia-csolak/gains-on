@@ -32,8 +32,6 @@ I am planning to build a workout app using the Wger API. My app will include a s
 
 ### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views.
-
 ![Gains On - Home] (https://wireframe.cc/37CkiM)
 
 - Home Page

@@ -34,15 +34,15 @@ I am planning to build a workout app using the Wger API. My app will include a s
 
 > Use the Wireframes section to display desktop, tablet and mobile views.
 
-![Gains On - Home](https://wireframe.cc/37CkiM)
+![Gains On - Home] (https://wireframe.cc/37CkiM)
 
 - Home Page
 
-![Gains On - Exercise List](https://wireframe.cc/37CkiM))
+![Gains On - Exercise List] (https://wireframe.cc/37CkiM)
 
 - ExerciseList.js
 
-![Gains On - Single Exercise](https://wireframe.cc/37CkiM)
+![Gains On - Single Exercise] (https://wireframe.cc/37CkiM)
 
 - Exercise.js
 

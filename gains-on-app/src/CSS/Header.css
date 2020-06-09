@@ -1,0 +1,32 @@
+.logo {
+    background-color: #474448;
+    height: auto;
+    font-family: 'Comfortaa', cursive;
+    color: #E0DDCF;
+    font-size: 45px;
+    margin-top: 0;
+    padding-top: 5px;
+    display: flex;
+    flex-flow: row;
+}
+
+.tagline{
+    font-family: sans-serif;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    display: flex;
+    flex-flow: row;
+}
+
+form, select, option, button {
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.formDiv {
+    display: flex;
+    flex-flow: row
+}

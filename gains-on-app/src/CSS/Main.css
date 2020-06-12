@@ -1,25 +1,40 @@
-.exercise-list {
-    cursor: pointer;
-}
-
 .main-container {
     display: inline-flex;
     justify-content: space-between;
 }
 
 .main-content {
-    width: 33%;
+    width: 29%;
+    overflow-wrap: break-word;
+    text-overflow: clip;
 }
 
 body {
     background: #62929E;
 }
 .exercise-names, .exercise-list {
-    overflow: scroll;
+    overflow-y: scroll;
     font-family: 'Comfortaa', cursive;
     font-size: 12px;
 }
 
 a :hover{
     color: #C6C5B9
+}
+
+.exercise-details h1 {
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+}
+
+.exercise-details p {
+    font-family: 'Roboto', sans-serif;
+    color: #393D3F;
+    size: 12px; 
+}
+
+.body-diagram {
+    height: auto;
+    width: inheritß;
 }

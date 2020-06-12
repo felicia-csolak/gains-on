@@ -1,0 +1,25 @@
+.exercise-list {
+    cursor: pointer;
+}
+
+.main-container {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.main-content {
+    width: 33%;
+}
+
+body {
+    background: #62929E;
+}
+.exercise-names, .exercise-list {
+    overflow: scroll;
+    font-family: 'Comfortaa', cursive;
+    font-size: 12px;
+}
+
+a :hover{
+    color: #C6C5B9
+}

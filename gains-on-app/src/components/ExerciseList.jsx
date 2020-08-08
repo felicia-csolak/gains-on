@@ -40,7 +40,8 @@ export default class ExerciseList extends Component {
             <div>
                 <form onSubmit={this.formHandleSubmit}>
                     <select value={this.state.value} onChange={this.handleChange}>
-                        {this.state.muscleGroups.map((muscle, index) => (
+                        {this.state.muscleGroups &&
+                        this.state.muscleGroups.map((muscle, index) => (
                             <option value={muscle.id} key={index}>
                                 {muscle.name}
                             </option>
